@@ -36,6 +36,10 @@ import required libraries:
 
 ---
 
+**File:** [Isolate Alpha PCA](IsolateAlpha-PCA.ipynb)
+
+---
+
 ## Step 1: Get the data
 
 Build a portfolio, pick any stocks you want.
