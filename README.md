@@ -37,6 +37,8 @@ import required libraries:
 ---
 
 **File:** [Isolate Alpha PCA](IsolateAlpha-PCA.ipynb)
+
+
 **FAANG File:** [Isolate FAANG Alpha PCA](IsolateAlpha-PCA-FAANG.ipynb)
 
 ---
